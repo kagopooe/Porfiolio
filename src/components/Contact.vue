@@ -5,31 +5,22 @@
 				  <form action="https://formspree.io/f/mgerbjnz" method="POST" class="contact-form" id="my-form">
 					<div class="col-sm-12">
 					  <div class="input-block">
-						<!-- <label for="">First Name</label> -->
 						<input type="text" class="form-control" name="fullname" placeholder="Full Name" required>
 					  </div>
 					</div>
-					<!-- <div class="col-sm-12">
-					  <div class="input-block">
-						<label for="">Last Name</label>
-						<input type="text" class="form-control">
-					  </div>
-					</div> -->
+
 					<div class="col-sm-12">
 					  <div class="input-block">
-						<!-- <label for="">Email</label> -->
 						<input type="text" class="form-control" name="email" placeholder="Email Address" required>
 					  </div>
 					</div>
 					<div class="col-sm-12">
 					  <div class="input-block">
-						<!-- <label for="">Message Subject</label> -->
 						<input type="text" class="form-control" name="subject" placeholder="Subject">
 					  </div>
 					</div>
 					<div class="col-sm-12">
 					  <div class="input-block textarea">
-						<!-- <label for="">Drop your message here</label> -->
 						<textarea rows="3" type="text" class="form-control" name="message" placeholder="Drop your message here" required></textarea>
 					  </div>
 					</div>
@@ -155,9 +146,7 @@ export default {
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
 }
-.contact-form .input-block.focus {
-  
-}
+
 .contact-form .input-block.textarea {
   height: auto;
 }

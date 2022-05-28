@@ -6,7 +6,6 @@
 <style>
 #app {
 font-family: 'Oswald', sans-serif;
-/* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; */
 color: white;
 height: 100%;
 }

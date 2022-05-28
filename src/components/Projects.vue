@@ -289,7 +289,6 @@ export default {
     position: absolute;
     content: "\f00c";
     color: #e2b921;
-    /* font-family: FontAwesome; */
     display: inline-block;
     margin-left: -1.6em;
     width: 22px;

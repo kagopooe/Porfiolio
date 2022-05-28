@@ -162,7 +162,6 @@ p {
 .header h3 {
     font-style: italic;
     color: silver;
-    /* margin-top: -5px; */
 }
 
 .about {
@@ -171,16 +170,8 @@ p {
   padding-top: 50px;
 }
 
-/* .about img {
-
-
-} */
-
 #about-text {
   padding-top: 20px;
-  
- 
-  
 }
 
 .skills-bg {
@@ -215,7 +206,7 @@ text-decoration: none;
 }
 
 .my-links .col {
-  padding-bottom: 20px;
+padding-bottom: 20px;
 }
 
 
@@ -252,12 +243,8 @@ export default {
 
 	function getProgress() {					
 		var topPos = document.documentElement.scrollTop;
-		// Alternatively, you can use document.body.scrollTop || document.documentElement.scrollTop;
-		
-		// Remaining left to scroll
+
 		var remaining = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-		// scrollHeight is the measurement of the element's entire content, whether all the content is visible or not
-		// clientHeight is the inner height of the element, including padding
 		
 		var percentage = (topPos / remaining) * 100;
 

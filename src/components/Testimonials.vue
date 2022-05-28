@@ -200,7 +200,6 @@ export default {
 .testimonial-card {
     background-color:lighten(#000,2%);
     width:350px;
-    /* height: 336px; */
     overflow:hidden;
     padding-top: 20px;
     border-bottom: 2.5px solid #e2b921;
@@ -224,9 +223,7 @@ h3{
 }
 
 .testimonial-card p {
-    /* font-size:15px; */
     line-height:1.7;
-    /* letter-spacing:1px; */
 }
 
 .footer {
@@ -259,17 +256,16 @@ h3{
 
 @media only screen and (max-width: 1102px) {
   .col-sm {
-    /* margin-left: 20%; */
-    display: flex;
-justify-content: center;
+            display: flex;
+            justify-content: center;
   }
 }
 
 @media only screen and (max-width: 390px) {
   .col-sm {
-    padding: 0;
-    display: flex;
-justify-content: center;
+            padding: 0;
+            display: flex;
+            justify-content: center;
   }
 }
 

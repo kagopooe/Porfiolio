@@ -2,7 +2,6 @@
     <div class="footer-dark">
       <footer>
           <div class="container">
-                  <!-- <div class="col item social"><a href=https://github.com/kagopooe><span class="iconify" data-icon="akar-icons:github-outline-fill"></span></a><a href=mailto:kagopooe@gmail.com><i class="fa fa-at"></i></a><a href="https://twitter.com/kagopooe"><i class="fa fa-twitter"></i></a><a href="https://www.youtube.com/channel/UC1S71_9NjlEd2_1RnsMA1Hg"><i class="fa fa-youtube"></i></a></div> -->
               </div>
               <p class="copyright">© 2022 // Created by Kago Pooe</p>
       </footer>
