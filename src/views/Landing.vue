@@ -42,7 +42,7 @@
         </button>
       </p><br>
       <div class="collapse skills-bg" id="collapseExample">
-        <div class="card card-body card-bg">
+        <div class="card card-body card-bg skills-bg">
           <div class="container-fluid">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 text-center skill-icons">
               <div class="col"><span title="HTML"><span class="iconify" data-icon="akar-icons:html-fill"></span></span>
