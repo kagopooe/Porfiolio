@@ -47,6 +47,27 @@
                   
                     </div>
 
+                                        <div class="col-sm">
+                        <div class="testimonial-card">
+                            <div class="header">
+                                <h3> Emihle Cebisa</h3>
+                                    <p>Classmate</p>
+                            </div>
+                            
+                            <div class="body">    
+                                <p>"Kago is a fellow classmate and he is genuinely a nice person. His
+            coding skills are great. I wish him nothing but the best in his
+            career."</p>
+                            </div>
+    
+                             <div class="footer">
+                                <span><i class="fas fa-quote-right"></i></span>
+                            </div>
+                        </div>
+
+                  
+                    </div>
+
                     <div class="col-sm">
                         <div class="testimonial-card">
                             <div class="header">
@@ -66,64 +87,6 @@
 
                   
                     </div>
-
-                    <div class="col-sm">
-                        <div class="testimonial-card">
-                            <div class="header">
-                                <h3> Jason Wandrag</h3>
-                                    <p>Lecturer</p>
-                            </div>
-                            
-                            <div class="body">    
-                                <p>"Sometimes I Wdummy text of the printing and typesetting industry."</p>
-                            </div>
-    
-                             <div class="footer">
-                                <span><i class="fas fa-quote-right"></i></span>
-                            </div>
-                        </div>
-
-                  
-                    </div>
-
-                    <div class="col-sm">
-                        <div class="testimonial-card">
-                            <div class="header">
-                                <h3> Bron Villet</h3>
-                                    <p>Student Co-ordinator</p>
-                            </div>
-                            
-                            <div class="body">    
-                                <p>"Sometimes I Wdummy text of the printing and typesetting industry."</p>
-                            </div>
-    
-                             <div class="footer">
-                                <span><i class="fas fa-quote-right"></i></span>
-                            </div>
-                        </div>
-
-                  
-                    </div>
-
-                    <div class="col-sm">
-                        <div class="testimonial-card">
-                            <div class="header">
-                                <h3> Godwin Dzvapatsva</h3>
-                                    <p>Head of Department</p>
-                            </div>
-                            
-                            <div class="body">    
-                                <p>"Sometimes I Wdummy text of the printing and typesetting industry."</p>
-                            </div>
-    
-                             <div class="footer">
-                                <span><i class="fas fa-quote-right"></i></span>
-                            </div>
-                        </div>
-
-                  
-                    </div>
-             
 
 
 

@@ -2,7 +2,7 @@
 <div id="section">
 
 				<section class="contact-wrap">
-				  <form action="https://formspree.io/f/mgerbjnz" method="POST" class="contact-form" id="my-form">
+				  <form action="https://formspree.io/f/mgerbjnz" method="POST" class="contact-form" id="my-form" autocomplete="off">
 					<div class="col-sm-12">
 					  <div class="input-block">
 						<input type="text" class="form-control" name="fullname" placeholder="Full Name" required>

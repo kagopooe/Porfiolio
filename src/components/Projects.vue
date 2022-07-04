@@ -88,7 +88,7 @@
         </button>
       </p><br>
       <div class="collapse" id="moreproj">
-          <div class="traineeship">
+<div class="traineeship">
   <div class="process-row">
       <div class="activity animate-from-bottom__0">
           <div class="relative-block">
@@ -96,15 +96,86 @@
                   <img alt="An image" src="https://i.ibb.co/ZWp3Yts/ad-operations-process-strategy.png">
               </div>
               <div class="inactive">
-                  <div class="title">Will add soon sir </div>
+                  <div class="title">Basic Calculator </div>
               </div>
               <div class="active">
-                  <div class="title">coming soon</div>
-                  <div class="sub-title">placeholder</div>
+                  <div class="title">Basic Calculator</div>
+                  <div class="sub-title">Made a Calculator using Bootstrap and JavaScript. Used DOM manipulation to send data to the HTML and added code to give the calculator some functionality</div>
                   <div class="proj-links"><a href="https://flamboyant-leavitt-93419a.netlify.app/" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/Calculator" target="_blank">Code</a></div>
               </div>
           </div>
-      </div></div></div>
+      </div>
+      <div class="activity animate-from-bottom__1">
+          <div class="relative-block">
+              <div class="activity-icon">
+                  <img alt="An image" src="https://i.ibb.co/s2nghrT/ad-operations-process-strategy-activation.png">
+              </div>
+              <div class="inactive">
+                  <div class="title">Reaction Game </div>
+              </div>
+              <div class="active">
+                  <div class="title">Reaction Game</div>
+                  <div class="sub-title">Created a Reaction Game using a JavaScript Framework called Vue. The game measures the speed of the user's reaction time and reflexes in a simple manner</div>
+                  <div class="proj-links"><a href="https://unruffled-hugle-da54c4.netlify.app/" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/reaction-game-vue" target="_blank">Code</a></div>
+
+              </div>
+          </div>
+      </div>
+      <div class="activity animate-from-bottom__2">
+          <div class="relative-block">
+              <div class="activity-icon">
+                  <img alt="An image" src="https://i.ibb.co/ZWp3Yts/ad-operations-process-strategy.png">
+              </div>
+              <div class="inactive">
+                  <div class="title">Pass Network</div>
+              </div>
+              <div class="active">
+                  <div class="title">Football Team Pass Network Map</div>
+                  <div class="sub-title">Created a Pass Network visualization using Python and Pandas to derive insights from a local mid-tier football club. I used coding tools to generate the raw data.</div>
+                  <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pass-networks" target="_blank">Code</a></div>
+              </div>
+          </div>
+      </div>
+      <div class="activity animate-from-bottom__3">
+          <div class="relative-block">
+              <div class="activity-icon">
+                  <img alt="An image" src="https://i.ibb.co/s2nghrT/ad-operations-process-strategy-activation.png">
+              </div>
+              <div class="inactive">
+                  <div class="title">Data Manipulation</div>
+              </div>
+              <div class="active">
+                  <div class="title">Data Filtering & Cleaning</div>
+                  <div class="sub-title">Used a Python framework to extract pass information in order to gain specific data. The data was used to count a specific metric for a particular football team.
+                  <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="football-data-cleaning" target="_blank">Code</a></div>
+            </div>
+  
+              </div>
+          </div>
+      </div>
+      <div class="activity animate-from-bottom__4">
+          <div class="relative-block">
+              <div class="activity-icon">
+                  <img alt="An image" src="https://i.ibb.co/ZWp3Yts/ad-operations-process-strategy.png">
+              </div>
+              <div class="inactive">
+                  <div class="title">Pizza Chart</div>
+              </div>
+              <div class="active">
+                  <div class="title">Football Player Statistics</div>
+                  <div class="sub-title">Used R to scrape data and create a visualisation to analyse/measure the performance metrics of a professional footballer in a Pizza Plot.</div>
+                  <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pizzacharts" target="_blank">Code</a></div>
+              </div>
+          </div>
+      </div>
+  </div><br>
+      
+      
+      
+      
+      </div>
+      
+      </div>
 
 
 
@@ -120,7 +191,7 @@
 
 
 
-</div>
+
 
 
 </template>
@@ -267,6 +338,8 @@ export default {
 }
 .traineeship .activity .active .sub-title {
     margin-top: 10px;
+    /* margin-left: -10px; */
+    /* padding-right: 8px; */
     color: #616161;
     font-size: 16px;
     line-height: 28px;
