@@ -43,7 +43,7 @@
               <div class="active">
                   <div class="title">Football Team Pass Network Map</div>
                   <div class="sub-title">Created a Pass Network visualization using Python and Pandas to derive insights from a local mid-tier football club. I used coding tools to generate the raw data.</div>
-                  <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pass-networks" target="_blank">Code</a></div>
+                  <div class="proj-links"><a href="https://github.com/kagopooe/pass-networks/blob/main/output.png" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pass-networks" target="_blank">Code</a></div>
               </div>
           </div>
       </div>
@@ -75,7 +75,7 @@
               <div class="active">
                   <div class="title">Football Player Statistics</div>
                   <div class="sub-title">Used R to scrape data and create a visualisation to analyse/measure the performance metrics of a professional footballer in a Pizza Plot.</div>
-                  <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pizzacharts" target="_blank">Code</a></div>
+                  <div class="proj-links"><a href="https://github.com/kagopooe/pizzacharts/blob/main/Rplot.png" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pizzacharts" target="_blank">Code</a></div>
               </div>
           </div>
       </div>
@@ -96,12 +96,12 @@
                   <img alt="An image" src="https://i.ibb.co/ZWp3Yts/ad-operations-process-strategy.png">
               </div>
               <div class="inactive">
-                  <div class="title">Basic Calculator </div>
+                  <div class="title">Pizza Chart </div>
               </div>
               <div class="active">
-                  <div class="title">Basic Calculator</div>
-                  <div class="sub-title">Made a Calculator using Bootstrap and JavaScript. Used DOM manipulation to send data to the HTML and added code to give the calculator some functionality</div>
-                  <div class="proj-links"><a href="https://flamboyant-leavitt-93419a.netlify.app/" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/Calculator" target="_blank">Code</a></div>
+                  <div class="title">Pizza Chart (Python)</div>
+                  <div class="sub-title">Used Python to scrape data and create a visualisation to analyse/measure the performance metrics of a professional footballer in a Pizza Plot.</div>
+                  <div class="proj-links"><a href="https://github.com/kagopooe/PizzaPlot-py/blob/main/Pyplot.png" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/PizzaPlot-py" target="_blank">Code</a></div>
               </div>
           </div>
       </div>
@@ -111,12 +111,12 @@
                   <img alt="An image" src="https://i.ibb.co/s2nghrT/ad-operations-process-strategy-activation.png">
               </div>
               <div class="inactive">
-                  <div class="title">Reaction Game </div>
+                  <div class="title">Tableau Dashboard</div>
               </div>
               <div class="active">
-                  <div class="title">Reaction Game</div>
-                  <div class="sub-title">Created a Reaction Game using a JavaScript Framework called Vue. The game measures the speed of the user's reaction time and reflexes in a simple manner</div>
-                  <div class="proj-links"><a href="https://unruffled-hugle-da54c4.netlify.app/" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/reaction-game-vue" target="_blank">Code</a></div>
+                  <div class="title">Match Summary</div>
+                  <div class="sub-title">Used various online tools to track the locations of shots and passes from a local football match. The tools assigned x-y values to the events and measured the probabilty of the shots ending up as goals. The data was then fed into Tableau in order to convert it into a dashboard. </div>
+                  <div class="proj-links"><a href="https://public.tableau.com/app/profile/kago.pooe/viz/First_16401635288870/Dashboard1" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/reaction-game-vue" target="_blank">Code</a></div>
 
               </div>
           </div>
@@ -127,16 +127,16 @@
                   <img alt="An image" src="https://i.ibb.co/ZWp3Yts/ad-operations-process-strategy.png">
               </div>
               <div class="inactive">
-                  <div class="title">Pass Network</div>
+                  <div class="title">Tableau Dashboard</div>
               </div>
               <div class="active">
-                  <div class="title">Football Team Pass Network Map</div>
-                  <div class="sub-title">Created a Pass Network visualization using Python and Pandas to derive insights from a local mid-tier football club. I used coding tools to generate the raw data.</div>
+                  <div class="title">Bundesliga Statistics</div>
+                  <div class="sub-title">Scraped data from Fbref to display the Expected Goal Difference of the German top division using Tableau. I converted the data into a spreadsheet and used the software to display it as a Scatter Plot. </div>
                   <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pass-networks" target="_blank">Code</a></div>
               </div>
           </div>
       </div>
-      <div class="activity animate-from-bottom__3">
+      <!-- <div class="activity animate-from-bottom__3">
           <div class="relative-block">
               <div class="activity-icon">
                   <img alt="An image" src="https://i.ibb.co/s2nghrT/ad-operations-process-strategy-activation.png">
@@ -152,7 +152,7 @@
   
               </div>
           </div>
-      </div>
+      </div> -->
       <div class="activity animate-from-bottom__4">
           <div class="relative-block">
               <div class="activity-icon">
@@ -162,7 +162,7 @@
                   <div class="title">Pizza Chart</div>
               </div>
               <div class="active">
-                  <div class="title">Football Player Statistics</div>
+                  <div class="title">Pizza Chart</div>
                   <div class="sub-title">Used R to scrape data and create a visualisation to analyse/measure the performance metrics of a professional footballer in a Pizza Plot.</div>
                   <div class="proj-links"><a href="" target="_blank">Live</a>   //   <a href="https://github.com/kagopooe/pizzacharts" target="_blank">Code</a></div>
               </div>
